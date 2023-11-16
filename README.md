@@ -1,4 +1,4 @@
-# Sharpe Ratioを目的関数とした予測・執行モデル
+# srmodel
 ## 目的
 Sharpe Ratioを目的関数として訓練する株・為替・仮想通貨の自動取引のためのモデルです．  
 詳しくは`/notebooks/notebook.ipynb`をご覧ください．
